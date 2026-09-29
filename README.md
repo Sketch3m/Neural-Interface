@@ -1,16 +1,14 @@
-# Neural Interface — Conversation Transcripts
+# Neural Interface Research Archive
 
-This repository is intended to hold **full transcripts** of conversations related to neural plasticity, neural encoding, brain-computer interfaces, and connected HDC/VSA work.
+A research archive for conversations about neural plasticity, neural encoding, brain-computer interfaces, and related HDC/VSA computational ideas.
+
+The request is to collect more than summaries: project goals, referenced papers, architectural ideas, and reported experiments. See the [research dossier](research/dossier.md).
 
 ## Transcript status
 
-The first commit contained summaries. That did not satisfy the request for full transcripts.
+This repository does not yet contain full conversation transcripts. The available conversation-reading interface truncates long message bodies; partial captures are not labeled as full transcripts. When a ChatGPT data export is provided, matching complete transcripts can be added with speaker turns preserved.
 
-The ChatGPT conversation reader available to this task truncates long message bodies and entire conversation payloads (roughly 12–16 KB in the captures checked). It does not provide a complete export, and the browser is logged out, so it cannot retrieve the full conversation text there. Partial content is not represented here as a full transcript.
-
-To complete the transcript import, provide the ChatGPT data export ZIP (Settings → Data Controls → Export data) in this workspace or attach it to the chat. I can then extract the complete matching conversations below, retain speaker turns and timestamps, and commit the full source transcripts.
-
-## Identified conversations
+## Source conversations identified
 
 ### Neural encoding and plasticity
 
@@ -25,4 +23,4 @@ To complete the transcript import, provide the ChatGPT data export ZIP (Settings
 - [Reconstruct Search Logic](https://chatgpt.com/c/6ab637b7-6e14-83ea-9c3d-12d2267d754c)
 - [Compression Working Explained](https://chatgpt.com/c/6ab7ae44-dafc-83e9-bad1-8352beeaa2a7)
 
-The list is based on conversations exposed in the app's recent conversation index and may not cover older history.
+The list comes from the app's recent conversation index and may not include older history.
